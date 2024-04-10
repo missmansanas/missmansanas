@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://paolaportfolio.vercel.app/](https://paolaportfolio.vercel.app/)
 
-- 💬 Ask me about **React, Tailwind and basic Solidity**
+- 💬 Ask me about **HTML/CSS/JavaScript, React, and Tailwind**
 
 - 📫 How to reach me **paolanocom@gmail.com**
 
